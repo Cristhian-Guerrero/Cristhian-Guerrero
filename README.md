@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cristhian Guerrero</h1>
 <h3 align="center">A passionate developer from Colombia, focused on Artificial Intelligence and the bakend part of development</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
